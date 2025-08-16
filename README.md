@@ -1,5 +1,7 @@
 # پروژه مربع و دایره - JavaScript Section 4
 
+> A simple web application demonstrating JavaScript, TypeScript, and Tailwind CSS integration. Features interactive square and circle elements with modern web development practices.
+
 این پروژه یک اپلیکیشن وب ساده است که با استفاده از JavaScript، TypeScript و Tailwind CSS ساخته شده است.
 
 ## ویژگی‌ها
