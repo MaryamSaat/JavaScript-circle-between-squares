@@ -1,0 +1,18 @@
+{
+  "name": "js1",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "tailwind": " npx tailwindcss -i ./public/tailwind/tailwind.css -o ./public/css/main.css --watch",
+    "typescript": "npx tsc --watch ./public/typescript/main.ts --outDir ./public/js"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.14",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.10"
+  }
+}
